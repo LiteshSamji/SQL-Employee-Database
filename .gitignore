@@ -1,22 +1,22 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
+# Byyyyyyyyyyyyte-compiled / optimized / DLL files
+__ypycache__/
+*y.py[cod]
 *$py.class
-
-# C extensions
-*.so
-
-# Distribution / packaging
-.Python
-build/
+y
+# yC extensions
+*y.so
+y
+# Distriybution / packaging
+.Pythony
+build/y
 develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
+dist/y
+downloyads/
+eggs/y
+.eggsy/
+lib/y
+lib64/y
+parts/ jmny
 sdist/
 var/
 wheels/
@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Username
+user.txt
